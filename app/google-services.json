@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87173280171",
+    "project_id": "bemboo-chat",
+    "storage_bucket": "bemboo-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87173280171:android:4b37c93c9c05d9caaaa2ee",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87173280171-nsgckna2t9h9b0p13evk7jd6tlv82sg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7G1FQrzkpOQN_4lQBByYLmHHQKusjI2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87173280171-nsgckna2t9h9b0p13evk7jd6tlv82sg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
